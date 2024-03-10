@@ -1,5 +1,6 @@
 # Frozen-Lake-OpenAI-PSO-GA
 
+
 Frozen Lake from Open AI Gym is a strategy game that involves crossing a frozen lake from Start(S) to Goal(G) without falling into any Holes(H) by walking over the Frozen(F) lake. The agent may not always move in the intended direction due to the slippery nature of the frozen lake.
 
 Link to Open source - https://www.gymlibrary.dev/environments/toy_text/frozen_lake/
